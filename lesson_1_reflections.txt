@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I can see now that using the diff function will be very useful in the future. I see that for collaboration it is basically a must have tool. I like how this process will make it easy to visualize the changes that have been made and make the projects growth more visible.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could use this method to help create templates for projects to use in multiple ways. If something has gone terribly wrong I can revert back to previous versions and start over.  If I had customers that liked a project I was doing early on, but didn't like the direction it ended up going, we could easily revert and take a new strategy.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I like manually saving commits because changes can be strategically considered, and clearly explained in one commit. This is a pro for me because it makes changes easier to find. 
+    The con of this method could be that a computer crash would cripple a work-in-progress.  It would be nice if keystrokes were saved somewhere else.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    In certain scenarios it makes more sense to save many project files at once together, to get a snap shot of the whole project at a point in time.
+    Since Google docs is a word editor, there is usually only one document in a single file, which may usually be the whole project.
+    If a project had word components, spreadsheet components, and graph components, it might be beneficial to save them all at once.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log provides an easy to read summary of all the major changes within the project.
+    Git diff demonstrates each change by telling us exactly what was changed.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If I break something it is not a big deal. I can easily find my changes and do not have to read through such a large file to find mistakes.
+    I am more confident to make changes because enoug failures will lead me to the correct solution.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use git to streamline my web building workspace. I want it to be as fast as possible for me to update my websites and web applications and also to have a version control system in place in case things go wrong. I also want to be job ready with a version control system skill set in place so collaboration is easier in the future.

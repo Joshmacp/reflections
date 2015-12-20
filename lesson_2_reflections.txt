@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initializing the repository adds the git file systems to the folder. This project can now be tracked and manipulated using git. We need to do this to start using our version control system.
+
+	
