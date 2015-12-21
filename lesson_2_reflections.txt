@@ -9,3 +9,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Branches would be helpful for multiple versions of the same thing. For example, different language versions of a website or different difficulties for a game. I could also slightly modify a branch from the master for A/B testing. Branches help by keeping changes organized while always having a consistent main branch to go back to.
+	The main branch can be production quality. Experimental branches for collaboration.
+
+How do the diagrams help you visualize the branch structure?
+	Diagrams make it easy to see the commits per branch, as well as the differences each branch will have based on when it branched off.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?	
+	The result is a new master branch that contains changes from both branches combined. We represent that way because we still have access to both branches even though they were seperate at one time. The commits get combined in chronological order.
