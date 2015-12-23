@@ -12,3 +12,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	I would drag and drop files, or zip transfer through email. It would be a serious time suck compared with the version control systems. Obviously git is the easiest thing to use, and github makes it even easier by having a nice layout.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	If I am working on someone elses master I could show them the changes before they are pushed into master. The owner or decision maker can fix or change things before they are implemended into master. multiple people can work on multiple branches together, so more than one person on the same non-master branch can communicate and modify before changes or upgrades are implemented.	
