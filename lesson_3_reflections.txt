@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	I would fork when I want to modify someone elses project and have my own custom working copy. I would clone when I just want to look at how something works, but I wont be using the code for anything. I would use a branch in a team/collab environment or when I want to test new features in my own project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	I can track changes against that copy offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I would drag and drop files, or zip transfer through email. It would be a serious time suck compared with the version control systems. Obviously git is the easiest thing to use, and github makes it even easier by having a nice layout.
