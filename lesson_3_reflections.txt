@@ -2,4 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
   I would want a remote repository so its easy and simply for my team to push and pull copies of the project. Having a remote storage solution is also useful because there is much less a chance everything could get lost.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-	I might want to view changes before I decide to pull them into my copy.
+	I might want to view changes before I decide to pull them into my copy.  There could also be multiple branches to consider.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	I would fork when I want to modify someone elses project and have my own custom working copy. I would clone when I just want to look at how something works, but I wont be using the code for anything. I would use a branch in a team/collab environment or when I want to test new features in my own project.
