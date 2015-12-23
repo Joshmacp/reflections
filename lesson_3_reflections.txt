@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
   I would want a remote repository so its easy and simply for my team to push and pull copies of the project. Having a remote storage solution is also useful because there is much less a chance everything could get lost.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	I might want to view changes before I decide to pull them into my copy.
